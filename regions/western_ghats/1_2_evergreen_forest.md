@@ -16,15 +16,15 @@ Forest comprising of thick and dense canopy of tall trees, which predominantly r
 
 ### Satellite
 
-![](../../images/western_ghats_evergreen_satellite.png)
+<img src="../../images/western_ghats_evergreen_satellite.png" width="400px" />
 
 ### Landsat (RGB)
 
-![](../../images/western_ghats_evergreen_landsat_rgb.png)
+<img src="../../images/western_ghats_evergreen_landsat_rgb.png" width="400px" />
 
 ### Landsat (SWIR1/NIR/RED)
 
-![](../../images/western_ghats_evergreen_landsat_fcc.png)
+<img src="../../images/western_ghats_evergreen_landsat_fcc.png" width="400px" />
 
 ## Sample Collection Tips
 
