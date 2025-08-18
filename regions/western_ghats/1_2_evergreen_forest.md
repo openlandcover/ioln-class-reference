@@ -1,0 +1,31 @@
+# Evergreen Forests
+
+| Legend | Level | Class Number |
+| ------ | ----- | -------------|
+| Evergreen Forest | 1.2 | 3 |
+
+## Definition
+
+Forest comprising of thick and dense canopy of tall trees, which predominantly remain green throughout the year. It includes both coniferous and tropical broad-leaved evergreen trees. 
+
+## Description
+
+ Evergreen forests are landcover types characterized by dense tree canopy cover where the majority of trees retain their leaves throughout the year. In landcover classification, evergreen forests are identified by persistent green foliage, minimal seasonal leaf loss, and a closed canopy structure. They are distinguished from deciduous forests by their year-round photosynthetic activity and stable canopy appearance.
+
+ ## Examples
+
+### Satellite
+
+![](../../images/western_ghats_evergreen_satellite.png)
+
+### Landsat (RGB)
+
+![](../../images/western_ghats_evergreen_landsat_rgb.png)
+
+### Landsat (SWIR1/NIR/RED)
+
+![](../../images/western_ghats_evergreen_landsat_fcc.png)
+
+## Sample Collection Tips
+
+Use both dry and median mosaics to determine if the forest is evergreen. 
