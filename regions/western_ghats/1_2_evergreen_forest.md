@@ -14,17 +14,29 @@ Forest comprising of thick and dense canopy of tall trees, which predominantly r
 
  ## Examples
 
-### Satellite
+### Western Ghats
+
+*Add notes about region here.*
+
+#### Satellite
 
 <img src="../../images/western_ghats_evergreen_satellite.png" width="400px" />
 
-### Landsat (RGB)
+*Add Google Maps Link of the Location*
+ 
+#### Landsat (RGB)
 
 <img src="../../images/western_ghats_evergreen_landsat_rgb.png" width="400px" />
 
-### Landsat (SWIR1/NIR/RED)
+
+#### Landsat (SWIR1/NIR/RED)
 
 <img src="../../images/western_ghats_evergreen_landsat_fcc.png" width="400px" />
+
+### Himalayas
+
+*Add notes about region here.*
+
 
 ## Sample Collection Tips
 
