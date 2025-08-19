@@ -1,8 +1,8 @@
 # Evergreen Forests
 
-| Legend | Level | Class Number |
-| ------ | ----- | -------------|
-| Evergreen Forest | 1.2 | 3 |
+| Legend | Level | Class Number | Color Code |
+| ------ | ----- | -------------| ---------- |
+| Evergreen Forest | 1.2 | 3 | #c5e0b3 |
 
 ## Definition
 
@@ -18,20 +18,12 @@ Forest comprising of thick and dense canopy of tall trees, which predominantly r
 
 *Add notes about region here.*
 
-#### Satellite
 
-<img src="../../images/western_ghats_evergreen_satellite.png" width="400px" />
+| Satellite | Landsat (RGB) | Landsat (SWIR1/NIR/RED) |
+|-----------|---------------|-------------------------|
+| <img src="images/western_ghats_evergreen_satellite.png" width="400px" /> | <img src="images/western_ghats_evergreen_landsat_rgb.png" width="400px" /> | <img src="images/western_ghats_evergreen_landsat_fcc.png" width="400px" /> |
 
-*Add Google Maps Link of the Location*
- 
-#### Landsat (RGB)
-
-<img src="../../images/western_ghats_evergreen_landsat_rgb.png" width="400px" />
-
-
-#### Landsat (SWIR1/NIR/RED)
-
-<img src="../../images/western_ghats_evergreen_landsat_fcc.png" width="400px" />
+*Add Link to Google Maps*
 
 ### Himalayas
 
