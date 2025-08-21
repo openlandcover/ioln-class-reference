@@ -33,3 +33,5 @@ Forest comprising of thick and dense canopy of tall trees, which predominantly r
 ## Sample Collection Tips
 
 Use both dry and median mosaics to determine if the forest is evergreen. 
+
+Other
