@@ -3,7 +3,7 @@
 
 | Legend | Level | Class Number | Color Code |
 | ------ | ----- | -------------| ---------- |
-| Mangrove Forest | 1.1 | x | #xxxxx |
+| Mangrove Forest | 1.1 | 5 | #04381d |
 
 ## Definition
 

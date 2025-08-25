@@ -2,7 +2,7 @@
 
 | Legend | Level | Class Number | Color Code |
 | ------ | ----- | -------------| ---------- |
-| Evergreen Forest | 1.2 | 3 | #c5e0b3 |
+| Evergreen Forest | 1.2 | 3 | ##1f8d49 |
 
 ## Definition
 
@@ -34,4 +34,4 @@ Forest comprising of thick and dense canopy of tall trees, which predominantly r
 
 Use both dry and median mosaics to determine if the forest is evergreen. 
 
-TO ADD: Give link to script
+TO ADD: Give link to script for dry and median mosaics
