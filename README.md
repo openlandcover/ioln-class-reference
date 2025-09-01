@@ -12,8 +12,7 @@ The aim is twofold:
 
 ![alt text](images/classes.PNG)
 
-The seven biogeographic regions for India ([code](https://code.earthengine.google.co.in/baa462996f2986bf5d4690532a2c1c29) - Pradeep Koulgi) identified (TO DO: Put legend in GEE code):
-*TO DO: Add this to the legend of the code*
+The seven biogeographic regions for India ([code](https://code.earthengine.google.co.in/baa462996f2986bf5d4690532a2c1c29) - script: Pradeep Koulgi):
 
 - Himalayas
 
@@ -31,28 +30,18 @@ The seven biogeographic regions for India ([code](https://code.earthengine.googl
 
 ![alt text](images/biogeographic_regions.PNG)
 
-## Generic code
+## Example code
 
-With this code, you have - IN PROGRESS - URGENT (issue/task)
-
-- A way to take the screenshots in GEE using TCC and FCC
-
-- Get the True and False Color Composites for a past and present year (including the dry and wet seasons)
+*In progress*
 
 ## Additional tools:
 
 - [Google Earth Pro](https://www.google.com/intl/en_in/earth/about/versions/#earth-for-web) - You can use for screenshots 
 
-- Reference maps to use in the interpretation keys - Collaborate with seperate working group for this
+- Reference maps
 
-## Example
-
-A full example for one class can be found here - IN PROGRESS - URGENT
-
-For each class/region this may look different of course
-
-
-## [References/resources](docs)
+## References
+[Mapbiomas Brazil Interpretation Keys](https://chave.lapig.iesa.ufg.br/en/)
 
 
 
