@@ -12,23 +12,7 @@ The aim is twofold:
 
 ![alt text](images/classes.PNG)
 
-The seven biogeographic regions for India ([code](https://code.earthengine.google.co.in/baa462996f2986bf5d4690532a2c1c29) - script: Pradeep Koulgi):
 
-- Himalayas
-
-- Indo-Gangetic Plains
-
-- Arid Central India + The Indian Desert
-
-- Western Ghats
-
-- Peninsula Plateau + East Central Highlands
-
-- North-East Hills
-
-- Islands + Coasts
-
-![alt text](images/biogeographic_regions.PNG)
 
 ## Example code
 
