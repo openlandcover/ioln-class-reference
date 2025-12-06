@@ -22,7 +22,6 @@ The aim is twofold:
 
 - [Google Earth Pro](https://www.google.com/intl/en_in/earth/about/versions/#earth-for-web) - You can use for screenshots 
 
-- Reference maps
 
 ## References
 [Mapbiomas Brazil Interpretation Keys](https://chave.lapig.iesa.ufg.br/en/)
