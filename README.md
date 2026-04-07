@@ -13,14 +13,9 @@ The aim is twofold:
 ![alt text](images/classes.PNG)
 
 
-
 ## Example code
 
 *In progress*
-
-## Additional tools:
-
-- [Google Earth Pro](https://www.google.com/intl/en_in/earth/about/versions/#earth-for-web) - You can use for screenshots 
 
 
 ## References
